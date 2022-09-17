@@ -1,0 +1,7 @@
+opencv-python == 4.3.0.36
+mss == 6.0.0 
+numpy == 1.19.0
+keyboard == 0.13.5
+pyserial == 3.4
+sockets == 1.0.0
+scikit-image == 0.16.2
